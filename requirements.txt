@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pydantic>=2
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn[standard]
+httpx
+pytest
